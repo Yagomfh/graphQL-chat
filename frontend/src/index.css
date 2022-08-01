@@ -1,0 +1,14 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  height: 100%;
+}
+
+html, body, #root, #root>div {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
