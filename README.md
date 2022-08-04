@@ -1,4 +1,4 @@
-# GraphQL Chat
+# Real Time GraphQL Chat
 
 A real time chat web app using GraphQL subscriptions
 
