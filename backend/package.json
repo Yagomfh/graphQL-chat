@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@graphql-yoga/node": "^2.13.5",
+    "graphql": "^16.5.0"
+  }
+}
